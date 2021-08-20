@@ -19,25 +19,25 @@ export default class App extends React.Component {
         {
           id: 1,
           title: "Gmail",
-          to: "About",
+          to: "Home",
           icone: ""
         },
         {
           id: 2,
           title: "Images",
-          to: "About",
+          to: "Home",
           icone: ""
         },
         {
           id: 3,
           title: "Drive",
-          to: "About",
+          to: "Home",
           icone: ""
         },
         {
           id: 4,
           title: "DropBox",
-          to: "About",
+          to: "Home",
           icone: ""
         },
       ],
@@ -45,19 +45,19 @@ export default class App extends React.Component {
           {
             id: 1,
             title: "Info consommateur",
-            to: "About",
+            to: "Home",
             icone: ""
           },
           {
             id: 2,
             title: "Confidentialité",
-            to: "About",
+            to: "Home",
             icone: ""
           },
           {
             id: 3,
             title: "Conditions",
-            to: "About",
+            to: "Home",
             icone: ""
           },
         ],
@@ -71,19 +71,19 @@ export default class App extends React.Component {
           {
             id: 2,
             title: "Publicité",
-            to: "About",
+            to: "Home",
             icone: ""
           },
           {
             id: 3,
             title: "Entreprise",
-            component: "About",
+            component: "Home",
             icone: ""
           },
           {
             id: 4,
             title: "Comment fonctionne la recherche google?",
-            to: "About",
+            to: "Home",
             icone: ""
           },
         ]
